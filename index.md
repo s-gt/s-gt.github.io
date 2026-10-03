@@ -1,31 +1,17 @@
 ---
 layout: default
-title: sakuram
-description: "who am I?"
 ---
 
-# Hi👋 I'm sakuram
+# Hi👋 I'm sgt
+
 Software Engineer, Android Developer.
 
 ## Contact
-Contact me via <a href="https://x.com/_sg_t" target="_blank">X</a>
+
+Contact me via [X](https://x.com/_sg_t).
 
 ## Links
-<a href="https://x.com/_sg_t" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/x/white"
-        style="max-height: 100px; max-width: 100px; margin-right: 10px;" 
-        onmouseover="this.style.opacity='0.7'" 
-        onmouseout="this.style.opacity='1'" />
-</a>
-<a href="https://github.com/s-gt" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/github/white"
-        style="max-height: 100px; max-width: 100px; margin-right: 10px;" 
-        onmouseover="this.style.opacity='0.7'" 
-        onmouseout="this.style.opacity='1'" />
-</a>
-<a href="https://zenn.dev/sakuram_dev" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/zenn/white"
-        style="max-height: 100px; max-width: 100px;" 
-        onmouseover="this.style.opacity='0.7'" 
-        onmouseout="this.style.opacity='1'" />
-</a>
+
+- [X](https://x.com/_sg_t)
+- [GitHub](https://github.com/s-gt)
+- [Zenn](https://zenn.dev/sakuram_dev)
